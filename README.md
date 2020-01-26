@@ -1,0 +1,1 @@
+# ngx-table-sticky-header
